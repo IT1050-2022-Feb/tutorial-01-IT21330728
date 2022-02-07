@@ -30,11 +30,11 @@ int main() {
   {
 amount=distance*50;
   }
-  else if(distance>30)
-    amount=distance* x 50 (distance-30) x 40 ;
+  else 
+    amount=30* x 50 +((distance-30) x 40 );
   {
     else
-      printf("full amount :",%f);
+      printf("full amount :%f",amount);
   
   return 0;
 }
